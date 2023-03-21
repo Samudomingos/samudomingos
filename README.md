@@ -15,13 +15,27 @@
   
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samudomingos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samudomingos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Samudomingos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samudomingos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samudomingos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Samudomingos-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Samudomingos-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+  
+ <img align="center" alt="Samudomingos-PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" />
+ 
+ <img align="center" alt="Samudomingos-Laravel" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  
+ <img align="center" alt="Samudomingos-Laravel" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ 
+ <img align="center" alt="Samudomingos-REACT" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+          
+  
+ <img align="center" alt="Samudomingos-Ionic" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+          
+              
+  <img align="center" alt="Samudomingos-Ts"  width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="Samudomingos-HTML"  width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Samudomingos-CSS"  width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Samudomingos-Js"  width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </div>
  
 ##
